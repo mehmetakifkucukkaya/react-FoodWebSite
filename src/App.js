@@ -1,3 +1,4 @@
+import Category from './components/Category';
 import FoodCards from './components/FoodCards';
 import HeadlineCards from './components/HeadlineCards';
 import Hero from './components/Hero';
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <HeadlineCards />
       <FoodCards />
+      <Category />
     </div>
   );
 }
