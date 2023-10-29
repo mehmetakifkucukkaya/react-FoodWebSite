@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-green-50">
       <Navbar />
       <Hero />
       <HeadlineCards />
